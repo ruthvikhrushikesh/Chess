@@ -1,16 +1,24 @@
 # Chess :
 
+
 -> Here, I implemented chess in C language with the features listed below:
 
 ✔ Move validation (invalid move detection)
+
 ✔ Check and checkmate detection
+
 ✔ Stalemate detection
+
 ✔ Castling
+
 ✔ Pawn promotion
+
 ✔ Restricting illegal moves when the king is under attack
+
 ✔ Legal move generation when the king is under attack
 
 # How to play :
+
 
 -> It is terminal-based, so you need to enter the row and column details to move a piece.
 
