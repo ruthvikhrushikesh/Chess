@@ -27,7 +27,7 @@ int main(){
     s2.en[0]=s2.en[1]=s2.en[2]=0;
     printf("\n----------------------- C H E S S -------------------------");
 	printf("\n\nRULES :-\n-----------------\nPLAYER_1:CAPITAL\nPLAYER_2:SMALL\n-----------------\nKING:- K,k\nQUEEN:- Q,q\nELEPHANT:- E,e\nCAMEL:- C,c\nHORSE:- H,h\nPAWN:- A,a \n\n");
-    printf("FIRST ENTER ROW (small letters at right side)\nTHEN ENTER COLUMN NUMBER (numbers at bottom)\n(row,col)\n\n");
+    printf("FIRST ENTER COLUMN (small letters at bottom)\nTHEN ENTER ROW NUMBER (numbers at left side)\n(row,col)\n\n");
 	for(i=0;i<10;i++){
 		for(j=0;j<10;j++){
 			arr[i][j]=' ';
